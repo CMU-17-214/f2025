@@ -2,11 +2,11 @@
 
 ## Overview
 
-Software engineers today are less likely to design data structures and algorithms from scratch and more likely to build systems from library and framework components. In this course, students engage with concepts related to the construction of software systems at scale, building on their understanding of the basic building blocks of data structures, algorithms, program structures, and computer structures. The course covers technical topics in four areas: (1) concepts of design for complex systems, (2) object oriented programming, (3) static and dynamic analysis for programs, and (4) concurrent and distributed software. Student assignments involve engagement with complex software such as distributed massively multi-player game systems and frameworks for graphical user interaction.
+Software engineers today are less likely to design data structures and algorithms from scratch and more likely to build systems from library and framework components. In this course, students engage with concepts related to the construction of software systems at scale, building on their understanding of the basic building blocks of data structures, algorithms, program structures, and computer structures. The course covers technical topics in three areas: (1) concepts of design for complex systems, (2) object oriented programming, and (3) concurrent and distributed software. Student assignments involve engagement with complex software and commonly used libraries and frameworks.
 
 After completing this course, students will:
 
-- Be comfortable with object-oriented concepts and with programming in the Java or JavaScript language
+- Be comfortable with object-oriented concepts and with programming in the Java or Typescript language
 - Have experience designing medium-scale systems with patterns
 - Have experience testing and analyzing your software
 - Understand principles of concurrency and distributed systems
@@ -17,11 +17,9 @@ See a more detailed list of [learning goals](https://cmu-17-214.github.io/f2025/
 
 M/W 11:00 - 12:20 p.m. in [Tepper Building (TEP)](https://www.cmu.edu/admission/sites/default/files/inline-files/Carnegie%20Mellon%20University%20Campus%20Map.pdf) 1403
 
-**[Hammad Ahmad](https://hammadahmad.io/)**, [TCS](https://www.cmu.edu/admission/sites/default/files/inline-files/Carnegie%20Mellon%20University%20Campus%20Map.pdf) 341, office hours: see calendar
+**[Hammad Ahmad](https://hammadahmad.io/)**, [TCS](https://www.cmu.edu/admission/sites/default/files/inline-files/Carnegie%20Mellon%20University%20Campus%20Map.pdf) 341, office hours: see calendar. (I generally have an open door policy: if my office door is open and no-one else is meeting with me, I am happy to answer any questions. Feel free to email me for appointments; I am also available over Zoom.)
 
 Our TAs also provide additional office hours each week; see details in the calendar.
-
-The instructor has an open door policy: if the instructor's office door is open and no-one else is meeting with him, he is happy to answer any course-related questions. Feel free to email any of the course staff for appointments; we are also available over Zoom.
 
 ## <a name=calendar></a>Calendar
 
