@@ -16,7 +16,7 @@ In this lab, we will work with the starter code from homework 1. Each student in
 * If you do not have a *GitHub* account yet, [create one](https://github.com/).
 * Follow the GitHub classroom link on Canvas to create your own GitHub repository with the starter code for homework 1.
 
-**Setting up your Personal Access Token.** Before cloning the repository, you should set up your own personal access token; otherwise, you might get an invalid username or password error. GitHub removes these every year, so even if you have made one in the past, you may need to recreate it. You can follow the [instructions](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) for the general outline on how and where to create a personal access token. Some things to note:
+**Setting up your Personal Access Token.** Before cloning the repository, you should set up your own personal access token; otherwise, you might get an invalid username or password error. GitHub removes these every year, so even if you have made one in the past, you may need to recreate it. You can follow the [instructions](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) for the general outline on how and where to create a (classic) personal access token. Some things to note:
 
 * You can name it something like 17214f25 or whatever you’d like
 * Set the expiration date to be some time past the end of the semester (e.g. 12/21/25), so that you don’t have to make it again this semester

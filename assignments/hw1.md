@@ -6,9 +6,9 @@ In this assignment, you will complete a simple [flashcard](https://en.wikipedia.
 
 Like often common in software engineering practice, you won't start entirely from scratch but start with an existing implementation. Fortunately, it's even somewhat documented and clean, so you should be able to figure out what's happening by reading documentation and code. You may change existing code if you like.
 
-With the GitHub classroom link on Canvas create a Git repository with the provided starter code. The repository has one directory for Java and one directory for TypeScript. You will complete the tasks for this homework once **in each language**. Each directory has its own README with language specific information. Note that the Java implementation has a folder named achievement that implements an achievement system for the flashcard learning system. This folder only becomes relevant in Homework 2 which builds on this assignment. You will not need to make any changes to it in this homework.
+With the GitHub classroom link on Canvas, create a Git repository with the provided starter code. If you already did this for Lab 1, you do not need to do it again. The repository has one directory for Java and one directory for TypeScript. You will complete the tasks for this homework once **in each language**. Each directory has its own README with language specific information. (You can ignore the achievement module in the Java implementation; that module is not used in this assignment.)
 
-You should use an IDE to load and edit the projects. We recommend (and will only provide support for) [VSCode](https://code.visualstudio.com/) for both Java and TypeScript development, but you are welcome to use [IntelliJ](https://www.jetbrains.com/idea/) or other IDEs if you prefer (note you can get free access to Enterprise IntelliJ via an Education discount, which will also give you access to TypeScript support).
+You should use an IDE to load and edit the projects. We recommend [VSCode](https://code.visualstudio.com/) for both Java and TypeScript development, but you are welcome to use [IntelliJ](https://www.jetbrains.com/idea/) or other IDEs if you prefer (note you can get free access to Enterprise IntelliJ via an Education discount, which will also give you access to TypeScript support).
 
 ## Tasks
 
