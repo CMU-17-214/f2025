@@ -21,7 +21,7 @@ M/W 11:00 - 12:20 p.m. in [Tepper Building (TEP)](https://www.cmu.edu/admission/
 
 Our TAs also provide additional office hours each week; see details in the calendar.
 
-The instructor have an open door policy: If the instructor's office doors are open and no-one else is meeting with us, we are happy to answer any course-related questions. Feel free to email us for appointments; we are also available over Zoom.
+The instructor has an open door policy: if the instructor's office door is open and no-one else is meeting with him, he is happy to answer any course-related questions. Feel free to email any of the course staff for appointments; we are also available over Zoom.
 
 ## <a name=calendar></a>Calendar
 
