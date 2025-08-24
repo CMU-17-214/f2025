@@ -6,7 +6,7 @@ Software engineers today are less likely to design data structures and algorithm
 
 After completing this course, students will:
 
-- Be comfortable with object-oriented concepts and with programming in the Java or Typescript language
+- Be comfortable with object-oriented concepts and with programming in the Java or TypeScript / JavaScript language
 - Have experience designing medium-scale systems with patterns
 - Have experience testing and analyzing your software
 - Understand principles of concurrency and distributed systems
@@ -397,7 +397,7 @@ We provide the following flexibility, no questions asked, no justification neede
 
 - For quizzes, we will drop up to two missed/failed solutions during the semester.
 - For labs, we will drop up to two missed/failed solutions during the semester.
-- For homework deadlines, you have 5 free late days for the semester. You can exceed each deadline by up to three days, for a penalty of 10% per day once you run out of free late days. This policy applies to all homework deadlines *except HWs 2a, 2b, and 6v*.
+- For homework deadlines, you have 5 free late days for the semester. You can exceed each deadline by up to three days, for a penalty of 10% per day once you run out of free late days. This policy applies to all homework deadlines *except HWs 2a, 2b, and 6b*.
 - For a single homework deadline during the semester (*except HWs 2a, 2b, and 6b*), you can redo and resubmit your work after it was graded. It will be regraded as if it was the first submission and you can regain all lost points. Each student can only do this once. We accept resubmissions until December 5 at 11:59pm. (While we do not recommend it, you can use this as arbitrary late days for a single deadline, receiving 0 points for missing the initial deadline and then resubmitting later.)
 
 Any work submitted beyond the flexibility provided by these mechanisms will receive feedback but no credit unless explicit accommodations were provided.
@@ -410,13 +410,13 @@ This course, including recitations, is marked by the registrar as IPE ("delivere
 
 We strongly recommend attending lectures. We have regular in-class activities and quizzes that we expect you to complete in class. Attending recitations is required for grading labs.
 
-In case of illness, quarantine, or other exceptional circumstances, we may be able to share recordings of lectures upon request on a case by case basis. Recordings may not be shared to protect the FERPA rights of all students in the classroom.
+Research shows that using devices on non-class related activities harms both the device user's learning, and other students' learning as well. Therefore, in general, we do not allow the use of devices during lecture. If you genuinely use your laptop for class-related activities (note-taking, etc), tell us, and we will make an exception. However, we ask that if you do so, you are careful to keep your devices in note-taking mode (and don’t stray to Facebook, homework, etc). In addition, you will be asked to sit in the back row of the lecture to minimize the impact your screen has on others. 
 
 ------
 
 ### Textbooks
 
-This course will occasionally assign **mandatory readings**, from the two text books below. The CMU library has both physical and electronic copies of these books. You can access *all* of these books for free electronically through the CMU library.
+This course will occasionally assign **readings**, from the two text books below. The CMU library has both physical and electronic copies of these books. You can access *all* of these books for free electronically through the CMU library.
 
 - Larman, Craig. [*Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development*](https://bookshop.org/books/applying-uml-and-patterns-an-introduction-to-object-oriented-analysis-and-design-and-iterative-development/9780131489066), 3rd Edition. Prentice Hall. ISBN 0-13-148906-2. [[CMU Library](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/6lpsnm/alma991019576227704436)] This book describes basics of object-oriented design, responsibility assignment, and some design patterns used in the course. We will use the third edition, which covers the course's topics in more details than earlier editions. We will assign select chapters.
 - Bloch, Joshua. [*Effective Java*](https://bookshop.org/books/effective-java-9780134685991/9780134685991), Third Edition. Addison-Wesley, ISBN 978-0-13-468599-1. [[CMU Library](https://cmu.primo.exlibrisgroup.com/permalink/01CMU_INST/1feg4j8/alma991019578256404436)] This book covers many aspects of program design, not only those specific to Java. We will assign multiple chapters.
