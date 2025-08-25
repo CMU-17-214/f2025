@@ -17,7 +17,7 @@ See a more detailed list of [learning goals](https://cmu-17-214.github.io/f2025/
 
 M/W 11:00 - 12:20 p.m. in [Tepper Building (TEP)](https://www.cmu.edu/admission/sites/default/files/inline-files/Carnegie%20Mellon%20University%20Campus%20Map.pdf) 1403
 
-**[Hammad Ahmad](https://hammadahmad.io/)**, [TCS](https://www.cmu.edu/admission/sites/default/files/inline-files/Carnegie%20Mellon%20University%20Campus%20Map.pdf) 341, office hours: see calendar. (I generally have an open door policy: if my office door is open and no-one else is meeting with me, I am happy to answer any questions. Feel free to email me for appointments; I am also available over Zoom.)
+**[Hammad Ahmad](https://hammadahmad.io/)**, [TCS](https://www.cmu.edu/admission/sites/default/files/inline-files/Carnegie%20Mellon%20University%20Campus%20Map.pdf) 341, office hours: see calendar. (I generally have an open door policy: if my office door is open and no-one else is meeting with me, I am happy to answer any questions. Feel free to also email me for appointments; I can meet with you in-person or via Zoom.)
 
 Our TAs also provide additional office hours each week; see details in the calendar.
 
