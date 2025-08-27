@@ -45,7 +45,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr class="">
       <td>Wed, Aug 27</td>
-      <td>OO basics, Dynamic dispatch, Encapsulation</td>
+      <td><a href="https://docs.google.com/presentation/d/1pN2E7twpoVwyfj3Rc0vtMUz-u5bVAaRj2xeMfMOz2_U/edit?usp=sharing" target="_blank">OO basics, Dynamic dispatch, Encapsulation</a></td>
       <td></td>
     </tr>
     <tr>
