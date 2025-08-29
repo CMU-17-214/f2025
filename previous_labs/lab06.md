@@ -19,7 +19,7 @@ In this lab you will get familiar with different testing strategies and practice
 
 ### Setup
 
-Fork and clone the repo from [https://github.com/CMU-17-214/s25-lab06.](https://github.com/CMU-17-214/s25-lab06).
+Fork and clone the repo from [https://github.com/CMU-17-214/f25-lab06.](https://github.com/CMU-17-214/f25-lab06).
 The code is set up with JUnit. You can use your IDE to open the folder of Java and run the existing tests with the command in the readme.md. You can also see Appendix 1 for how to run tests in your IDE.
 
 ### Task1

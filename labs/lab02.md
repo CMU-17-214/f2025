@@ -32,7 +32,7 @@ First, get familiar with the source code. Find the entry point, follow imports, 
 - A `Renderer` class takes a `Rectangle` object and provides a `draw` method.
 - `Main.java` or `index.ts` creates a `Renderer` backed by a `Rectangle` and calls `draw()` on it.
 
-Second, look for problems—no code is perfect, even if it works. In this case, we are looking for issues related to encapsulation & information hiding. Check whether any code is either accessing or depending on information that is not essential to its functioning. To put it differently, could the code be made to work while assuming access to fewer implementation details. *Hints: What type of Shape does a Renderer actually need, in the real world? Does the implementation depend on something more specific, for instance by accessing information it shouldn’t rely on?*
+Second, look for problems. No code is perfect, even if it works. In this case, we are looking for issues related to encapsulation & information hiding. Check whether any code is either accessing or depending on information that is not essential to its functioning. To put it differently, could the code be made to work while assuming access to fewer implementation details. *Hints: What type of Shape does a Renderer actually need, in the real world? Does the implementation depend on something more specific, for instance by accessing information it shouldn’t rely on?*
 
 Third, rewrite the code to improve encapsulation and information hiding. Here are some suggestions:
 

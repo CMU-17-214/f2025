@@ -16,7 +16,7 @@ In this lab, you will become a refactoring agent who detects anti-patterns and p
 ## Instructions
 
 ### Setup
-<u>Fork</u> and clone the repo from [https://github.com/CMU-17-214/s25-lab05](https://github.com/CMU-17-214/s25-lab05). The task is provided in Java.
+<u>Fork</u> and clone the repo from [https://github.com/CMU-17-214/f25-lab05](https://github.com/CMU-17-214/f25-lab05). The task is provided in Java.
 
 In the appendix, we have provided a non-comprehensive list of anti-patterns. You might want to read and refer to when doing the tasks. 
 
