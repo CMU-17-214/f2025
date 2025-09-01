@@ -1,4 +1,4 @@
-# Lab 08: Java Parallelism
+# Lab 8: Java Parallelism
 
 ## Deliverables
 

@@ -1,4 +1,4 @@
-# Lab 7 - Test Double
+# Lab 7: Test Double
 
 This lab is an introduction to test doubles.
 
