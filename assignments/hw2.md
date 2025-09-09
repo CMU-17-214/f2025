@@ -18,7 +18,7 @@ This assignment has the following learning goals:
 
 * Communicate design ideas clearly, including design documents that demonstrate fluency with the basic notation of UML class diagrams and interaction diagrams, the correct use of design vocabulary, and an appropriate level of formality in the specification of system behavior.
 
-To start the assignment, use the GitHub classroom link from the Canvas assignment to create your personal repository.  It will only contain a template for one design document -- you will check in both your design documents and your code to this repository. Consult the appendix for guidance on how to make a new Maven project.
+To start the assignment, use the GitHub classroom link from the [Canvas assignment](https://canvas.cmu.edu/courses/48225/assignments/854363) to create your personal repository.  It will only contain a template for one design document -- you will check in both your design documents and your code to this repository. Consult the appendix for guidance on how to make a new Maven project.
 
 ## Milestone 2a: Design and Implementation
 
