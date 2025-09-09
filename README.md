@@ -113,7 +113,7 @@ The schedule below reflects our current plans, but will be updated throughout th
   <tbody>
     <tr>
       <td>Mon, Sep 22</td>
-      <td><span class="assignment"><span class="hw">HW 2a due</span> <a href="https://github.com/CMU-17-214/f2025/blob/main/assignments/hw2.md#milestone-2a-design-and-implementation" target="_blank">Santorini: Intro to Design</a></td>
+      <td><span class="assignment"><span class="hw">HW 2a due</span> <a href="https://github.com/CMU-17-214/f2025/blob/main/assignments/hw2.md#milestone-2b-peer-review" target="_blank">Santorini: Intro to Design</a></td>
       <td />
     </tr>
     <tr>
@@ -135,7 +135,7 @@ The schedule below reflects our current plans, but will be updated throughout th
   <tbody>
     <tr>
       <td>Mon, Sep 29</td>
-      <td><span class="assignment"><span class="hw">HW 2b due</span> Santorini: Peer Review</td>
+      <td><span class="assignment"><span class="hw">HW 2b due</span> <a href="https://github.com/CMU-17-214/f2025/blob/main/assignments/hw2.md#milestone-2b-peer-review" target="_blank">Santorini: Peer Review</a></td>
       <td />
     </tr>
     <tr class="">
@@ -222,7 +222,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr>
       <td>Wed, Oct 29</td>
-      <td><span class="assignment"><span class="hw">HW 2c due</span> Santorini: Final design</td>
+      <td><span class="assignment"><span class="hw">HW 2c due</span> <a href="https://github.com/CMU-17-214/f2025/blob/main/assignments/hw2.md#milestone-2c-revised-design-and-implementation" target="_blank">Santorini: Final design</a></td>
       <td />
     </tr>
     <tr>
