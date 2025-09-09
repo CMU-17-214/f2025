@@ -24,7 +24,7 @@ To start the assignment, use the GitHub classroom link from the Canvas assignmen
 
 You will analyze, design, and implement the game Santorini without god cards (see appendix for rules). You should focus on the game-related functionality of the program, not its user interface. Think of playing the game by calling a sequence of methods, which you could execute in a test case; it is also helpful to think about and possibly sketch out the GUI and how it interacts with the game at this early stage. Note that the game (without god cards) is fairly simple, so you likely won't need more than a few classes/objects/methods.
 
-Textbooks often describe a sequential process where the solution is designed before it is implemented. You might find it more convenient to start with coding and iteratively change and refactor the code until you are happy with the design, to create UML diagrams as documentation after the fact. In practice, developers may shift between different strategies and orders of formal design, exploratory coding, and sketching diagrams. We recommend to start at least with some domain analysis and rough modeling. If you adopt a coding-first approach, make sure that you think carefully about your design and are willing to substantially change your code if you discover problems.
+Textbooks often describe a sequential process where the solution is designed before it is implemented. It is sometimes more convenient to start with coding and iteratively change and refactor the code until you are happy with the design, to create UML diagrams as documentation after the fact. In practice, developers may shift between different strategies and orders of formal design, exploratory coding, and sketching diagrams. We recommend to start at least with some domain analysis and rough modeling. If you adopt a coding-first approach, make sure that you think carefully about your design and are willing to substantially change your code if you discover problems.
 
 ### Analysis & Design
 
@@ -180,6 +180,6 @@ We recommend to set up the Checkstyle plugin. You can look at the `pom.xml` file
 
 We recommend to set up a `.gitignore` file to avoid committing generated files. See homework 1 for an example.
 
-We require you to set up GitHub actions to compile and test the project. You can adapt the setup from homework 1 in `.github/workflows`.
+We require you to set up GitHub actions to compile and test the project. You can adapt the setup from Homework 1 in `.github/workflows`.
 
 Further reading: [Maven - How to create a Java project](https://mkyong.com/maven/how-to-create-a-java-project-with-maven/), [Maven Archetype Plugin – archetype:generate](https://maven.apache.org/archetype/maven-archetype-plugin/generate-mojo.html), [Maven – Introduction to the POM](https://maven.apache.org/guides/introduction/introduction-to-the-pom.html), [Maven – Maven in 5 Minutes](https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html), [ignoring files in Git](https://www.atlassian.com/git/tutorials/saving-changes/gitignore), [Quickstart for GitHub Actions](https://docs.github.com/en/actions/quickstart)
