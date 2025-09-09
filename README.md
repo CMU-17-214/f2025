@@ -113,7 +113,7 @@ The schedule below reflects our current plans, but will be updated throughout th
   <tbody>
     <tr>
       <td>Mon, Sep 22</td>
-      <td><span class="assignment"><span class="hw">HW 2a due</span> <a href="https://github.com/CMU-17-214/f2025/blob/main/assignments/hw2.md#milestone-2b-peer-review" target="_blank">Santorini: Intro to Design</a></td>
+      <td><span class="assignment"><span class="hw">HW 2a due</span> <a href="https://github.com/CMU-17-214/f2025/blob/main/assignments/hw2.md" target="_blank">Santorini: Intro to Design</a></td>
       <td />
     </tr>
     <tr>
