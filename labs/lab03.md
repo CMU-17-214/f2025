@@ -13,7 +13,7 @@
 ## Instructions
 
 ### Setup
-<u>Fork</u> and clone the repo from [https://github.com/CMU-17-214/f25-lab03](https://github.com/CMU-17-214/f25-lab03.git)
+<u>Fork</u> and clone the repo from [https://github.com/CMU-17-214/f25-lab03](https://github.com/CMU-17-214/f25-lab03.git). 
 
 The repo has both Java and Typescript codes so feel free to implement in either of the languages you feel comfortable. Please try out the other language in your own time to gain an understanding of inheritance & delegation in both languages.
 
