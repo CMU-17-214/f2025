@@ -32,7 +32,7 @@ We have provided an empty ```InheritanceSortedIntList``` class where you should 
 > + You should override both of these methods to track how many elements have been added.
 > + Make sure you check that ```getTotalAdded``` works with both ```add``` and ```addAll```.
 
-After you have implemented the ```InheritanceSortedIntList``` class, test the instrumentation you just added using tests in ```InheritanceSortedIntListTest``` class. 
+After you have implemented the ```InheritanceSortedIntList``` class, test the instrumentation you just added using tests in ```InheritanceSortedIntListTest``` class. You can do this via the `mvn test` command.
 
 ### Task 2: Instrumentation with delegation:
 We have provided an empty ```DelegationSortedIntList``` class where you should implement your delegation-based solution.
@@ -45,7 +45,7 @@ We have provided an empty ```DelegationSortedIntList``` class where you should i
 > + After you have implemented the ```DelegationSortedIntList``` class, test the instrumentation you just added using tests in ```DelegationSortedIntListTest``` class. 
 
 
-Run the tests and make sure your instrumentation passes all the tests. 
+Run the tests (`mvn test`) and make sure your instrumentation passes all the tests. 
 (You might want to use the ```printList``` helper we provided you and read the documentation for ```addAll``` in the ```AbstractIntList``` class.) 
 
 ### Task 3: Questions on Delegation and Inheritance 
