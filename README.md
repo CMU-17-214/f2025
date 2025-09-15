@@ -96,7 +96,7 @@ The schedule below reflects our current plans, but will be updated throughout th
   <tbody>
     <tr class="">
       <td>Mon, Sep 15</td>
-      <td>Design Patterns</td>
+      <td><a href="https://docs.google.com/presentation/d/1ef4WmBN5lG0d-mz2fHCg4zNoC7RxIyEObzeRfbGOMf4/edit?usp=sharing" target="_blank">Design Patterns</a></td>
       <td><a href="https://www.safaribooksonline.com/library/view/applying-uml-and/0131489062">UML and Patterns</a>, Ch. 17-18</td>
     </tr>
     <tr class="">
