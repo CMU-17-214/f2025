@@ -21,7 +21,7 @@ Here is a short description of the game:
 
    After the player stands, the next player takes their turn until all players have either stood or lost. Then, the dealer exposes their face-down card and must hit (be dealt cards) until the value of their cards is more than 16. If a _player’s score_ is more than the dealer’s final score (but less than or equal to 21) then the player wins an amount equal to their bet. A player also wins if they are dealt 5 cards worth 21 or fewer points.
 
-   Otherwise, the player loses their bet. More information can be found on **Wikipedia’s Blackjack page**.
+   Otherwise, the player loses their bet. More information can be found on [Wikipedia’s Blackjack page](https://en.wikipedia.org/wiki/Blackjack).
 
 ### Domain Model
 
