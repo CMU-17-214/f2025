@@ -101,7 +101,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr class="">
       <td>Wed, Sep 17</td>
-      <td>Design Practice</td>
+      <td><a href="https://docs.google.com/presentation/d/1Fhx8henVOxXEVaTxPIjTSHVOGrbBnkfggVWE5vppR1A/edit?usp=sharing" target="_blank">Design Practice</a></td>
       <td />
     </tr>
     <tr>
