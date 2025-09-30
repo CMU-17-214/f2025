@@ -95,7 +95,7 @@ If you used AI tools such as ChatGPT or Copilot for any part of homework 3, add 
 
 Always submit all code to GitHub. Once you have pushed your final code there, submit a link to your final commit in the format `https://github.com/CMU-17-214-Students/<reponame>/commit/<commitid>`  on Canvas (the link identifies the right commit and branch for us, in case you do not work in the main branch). You can get this link easily when you click on the last commit (above the list of files) in the GitHub web interface. 
 
-**Important:** Make sure you can execute your Java and TypeScript tests via `mvn test` (and `mvn site` for coverage) and `npm test` before submitting. 
+**Important: Make sure you can execute your Java and TypeScript tests via `mvn test` (and `mvn site` for coverage) and `npm test` before submitting.**
 
 ## Evaluation
 
