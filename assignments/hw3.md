@@ -37,7 +37,7 @@ export default {
   }
 }
 ```
-Note that the `jest.config.js` above assumes that you have a `test` subdirectory in the same directory as the config file, your tests are structured just like the `src` directory is structured (e.g., with subdirectories `cards`, `ordering`, etc.), and each test follows the convention of `<filename>.test.ts`. So, for example, you;d have `test/cards` directory containing `flashcard.test.ts`. You can update the `testMatch` field to match your actual organization. If you run `npm test` and it fails to find any test files, chances are that your `testMatch` does not actually match how your tests are organized.
+Note that the `jest.config.js` above assumes that you have a `test` subdirectory in the same directory as the config file, your tests are structured just like the `src` directory is structured (e.g., with subdirectories `cards`, `ordering`, etc.), and each test follows the convention of `<filename>.test.ts`. So, for example, you'd have `test/cards` directory containing `flashcard.test.ts`. You can update the `testMatch` field to match your actual organization. If you run `npm test` and it fails to find any test files, chances are that your `testMatch` does not actually match how your tests are organized.
 
 ### Part 2: Specification-base testing (TypeScript)
 
