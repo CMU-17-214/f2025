@@ -145,7 +145,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr class="">
       <td>Wed, Oct 1</td>
-      <td>Test Case Design</td>
+      <td><a href="https://docs.google.com/presentation/d/12jNmGYkW70ZxdAz1GBUPJemWPGF6y3zaA4z69NvlrlA/edit?usp=sharing" target="_blank">Test Case Design</a></td>
       <td />
     </tr>
     <tr>
