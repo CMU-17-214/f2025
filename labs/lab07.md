@@ -33,9 +33,12 @@ These three terms are usually used interchangeably in practice, but there are so
 
 ## Instructions
 
-Clone the repository from [https://github.com/CMU-17-214/F25-lab07](https://github.com/CMU-17-214/f25-lab07). Run the following commands to get started:
+Clone the repository from [https://github.com/CMU-17-214/F25-lab07](https://github.com/CMU-17-214/f25-lab07). Run the following command to get started:
 ```
 mvn install
+```
+This will also run any tests. To individually run tests afterwards, you can do:
+```
 mvn test
 ```
 You might notice the tests are taking a very long time to run. Let's increase their performance using test doubles! Look through the provided files to see which methods you will need to test with which types of test doubles. You will find hints on how to proceed there.
@@ -82,4 +85,4 @@ assertEquals(snoopyCartoon, "Peanuts")
 
 So, now we've successfully mocked the `Cartoons` class and used a stub method call to write a test for the `get` method in `Cartoons`.
 
-This example covered everything you need to know for mocks in this lab. Feel free to checkout the [Mockito website](https://site.mockito.org/) for more information and documentation on the methods we used above, or look online for other examples using Mockito if the one above wasn't clear. Also, ask your TAs or ask on Piazza if you need any further help. Good luck!
+This example covers everything you need to know for mocks in this lab. Feel free to checkout the [Mockito website](https://site.mockito.org/) for more information and documentation on the methods we used above, or look online for other examples using Mockito if the one above wasn't clear. Also, ask your TAs or ask on Piazza if you need any further help. Good luck!
