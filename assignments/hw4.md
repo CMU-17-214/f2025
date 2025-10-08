@@ -45,6 +45,8 @@ Luckily, this code comes with tests that you can run with `mvn test`! However, t
 4. **Interface Segregation Principle** -- Clients should not be forced to depend on interfaces that they do not use
 5. **Dependency Inversion Principle** -- High-level classes should not depend on low-level classes.
 
+Further, some tests may not pass initially due to a few incorrect assertions.
+
 ## Task
 
 We ask you to perform the following tasks:
