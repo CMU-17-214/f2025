@@ -167,7 +167,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr>
       <td>Wed, Oct 8</td>
-      <td>Introduction to Concurrency</td>
+      <td><a href="https://docs.google.com/presentation/d/13gv-kU2fAjKX_G2tYjiZ8zDPQtHqlzXE0FDJ6jNSvpo/edit?usp=sharing" target="_blank">Introduction to Concurrency</a></td>
       <td />
     </tr>
     <tr>
