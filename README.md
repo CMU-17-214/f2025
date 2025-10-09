@@ -339,7 +339,7 @@ The schedule below reflects our current plans, but will be updated throughout th
   </tbody>
   <tbody>
     <tr class="midterm">
-      <td>TBD</td>
+      <td>Fri, Dec 12<br />1:00-4:00pm</td>
       <td>Final Exam</td>
       <td />
     </tr>
