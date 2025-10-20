@@ -195,7 +195,7 @@ The schedule below reflects our current plans, but will be updated throughout th
   <tbody>
     <tr>
       <td>Mon, Oct 20</td>
-      <td>Concurrency and Hazards</td>
+      <td><a href="https://docs.google.com/presentation/d/1mkwu86PIjwUcT-a_0u74RC4SfLsOaqAz7o57yF3_mmg/edit?usp=sharing" target="_blank">Concurrency and Hazards</a></td>
       <td />
     </tr>
     <tr>
