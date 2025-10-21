@@ -210,7 +210,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr>
       <td>Fri, Oct 24</td>
-      <td><span class="rec">Lab 8</span> Java Parallelism</td>
+      <td><span class="rec">Lab 8</span> <a href="https://github.com/CMU-17-214/f2025/blob/main/labs/lab08.md" target="_blank">Java Parallelism</a></td>
       <td />
     </tr>
   </tbody>
