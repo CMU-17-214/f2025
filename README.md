@@ -205,7 +205,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr>
       <td>Wed, Oct 22</td>
-      <td>Java Parallelism</td>
+      <td><a href="https://docs.google.com/presentation/d/1BlXs6zuo310yGAIY3YXApDxqkBgthGIOnf6RIetCXZo/edit?usp=sharing" target="_blank">Java Parallelism</a></td>
       <td />
     </tr>
     <tr>
