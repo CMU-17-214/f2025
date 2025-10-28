@@ -13,7 +13,7 @@ Homework 5 involves calling external APIs, specifically the [Google Cloud Vision
 ### Setting up a Google Cloud project
 
 1. First, download and install the gcloud CLI interface using the instructions [here](https://cloud.google.com/sdk/docs/install). Once you reach the step where you are asked to run `gcloud init`, run it, then continue following the instructions below.
-1. When asked for an account to use, do _not_ use your CMU email address. If you do, you will not be able to redeem the Google Cloud coupon that we provide you. Instead you should use your personal Gmail account, or sign up for a new one.
+1. When asked for an account to use, **do _not_ use your CMU email address. If you do, you will not be able to redeem the Google Cloud coupon that we provide you. Instead you should use your personal Gmail account, or sign up for a new one.**
 1. Create a new "project". This project is used by Google Cloud to organize your resources. This project will be used for both this lab and for Homework 5.
 1. Log in with `gcloud auth login`. (If your current project is `[None]`, you may set your default project via `gcloud config set project PROJECT_ID`, where `PROJECT_ID` is the ID of the project you just created.)
 1. Set the default application authentication with `gcloud auth application-default login`.
@@ -21,7 +21,7 @@ Homework 5 involves calling external APIs, specifically the [Google Cloud Vision
 ### Redeeming your Google Cloud Education Credit Coupon
 
 1. Click on the Student Coupon Retrieval Link in the assignment posted to Canvas
-1. Verify your _school_ email.
+1. Verify **your _school_ email**.
 1. Click the redeem link in the email they send you.
 1. In the window that is opened, in the upper-right of the screen **switch to the personal account** you used earlier. At this point you can enter the coupon code from the email. **Make sure that you do redeem the code for a personal Gmail account, not your Andrew account**, as it will not work for the latter and you might loose the coupon code in the process. If you receive an error that says "You may not have permission to create projects in this organization", double-check that you have switched to the proper account. _You are only able to redeem a code once; if you have difficulty please post privately on Piazza ASAP so that we can try obtain a new one_. If everything goes well, you will see a "Credit successfully applied" message.
 
