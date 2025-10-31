@@ -2,6 +2,8 @@
 
 In this assignment you will work with concurrency in a Node backend. You will get experience with writing asynchronous code, and with error handling.
 
+Note that you need to have completed the Google Cloud setup from Lab 9 to get started on this assignment. 
+
 ## Starter code
 
 Find the starter code with the GitHub Classroom link on Canvas.
@@ -96,4 +98,4 @@ A testing infrastructure is already setup in the `tests/` directory; these are t
 curl -X POST -H "Content-Type: application/json" -d '{"name": "David Tepper", "withNeighbors": false}' http://localhost:8080/job
 ```
 
-With `npx tsc --watch` you can keep the TypeScript compiler running in a terminal and it will automatically compile changes whenever you safe a file. In a second terminal,  `npx nodemon .` it will restart your application (the backend) after every change, that is, whenever the compiler has produced a new version.
+With `npx tsc --watch` you can keep the TypeScript compiler running in a terminal and it will automatically compile changes whenever you save a file. In a second terminal,  `npx nodemon .` it will restart your application (the backend) after every change, that is, whenever the compiler has produced a new version.
