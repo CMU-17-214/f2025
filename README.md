@@ -250,7 +250,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr>
       <td>Fri, Nov 7</td>
-      <td><span class="rec">Lab 10</span> ReactJS/Intro to GUIs</td>
+      <td><span class="rec">Lab 10</span> <a href="https://github.com/CMU-17-214/f2025/blob/main/labs/lab10.md" target="_blank">ReactJS/Intro to GUIs</a></td>
       <td />
     </tr>
   </tbody>
