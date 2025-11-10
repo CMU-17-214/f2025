@@ -23,7 +23,7 @@ The code consists of two related projects: The backend *express* implementation 
   * Make sure that you are signed into the Google Cloud API using `gcloud` (same as Lab 8)
   * `npm run start` runs the server which you can then access at `http://localhost:8080`
 
-The backend serves the frontend code in the root of the web server but also provides API endpoints for starting a job (`POST /job`) and for getting results of a job (`GET /job/:id`) that both communicate in JSON format (using the [Long Running Operation with Polling Pattern](http://restalk-patterns.org/long-running-operation-polling.html)). The frontend will make requests to the APIs to update the state within the page. If a job is not completed on the first request, it will check every second for updates.
+The backend serves the frontend code in the root of the web server but also provides API endpoints for starting a job (`POST /job`) and for getting results of a job (`GET /job/:id`) that both communicate in JSON format (using the [Long Running Operation with Polling Pattern](https://learn.microsoft.com/en-us/rest/api/fabric/articles/long-running-operation)). The frontend will make requests to the APIs to update the state within the page. If a job is not completed on the first request, it will check every second for updates.
 
 In the user interface in the web browser you can enter a topic and start the analysis. Note that the response will take a very long time if you analyze any nontrivial pages. Analyzing the topic "Carnegie Mellon University" gathers and analyzes 30 images without neighboring pages (and many more with neighbors), which easily takes 30 seconds to respond. A good test page might be "David Tepper" which has only a single image and takes about 2 seconds to analyze.
 
