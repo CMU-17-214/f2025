@@ -289,7 +289,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr>
       <td>Wed, Nov 19</td>
-      <td>Supply Chain Security</td>
+      <td><a href="https://docs.google.com/presentation/d/1h9Hl1zHrKtck-nNly6O2ZqCFZ3KmCENBq3_TkEodgAI/edit?usp=sharing" target="_blank">Supply Chain Security</a></td>
       <td />
     </tr>
     <tr>
