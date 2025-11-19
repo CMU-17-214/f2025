@@ -294,7 +294,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr>
       <td>Fri, Nov 21</td>
-      <td><span class="rec">Lab 12</span> APIs</td>
+      <td><span class="rec">Lab 12</span> <a href="https://github.com/CMU-17-214/f2025/blob/main/labs/lab12.md" target="_blank">APIs</a></td>
       <td />
     </tr>
   </tbody>
