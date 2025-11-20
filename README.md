@@ -340,7 +340,7 @@ The schedule below reflects our current plans, but will be updated throughout th
   <tbody>
     <tr class="midterm">
       <td>Fri, Dec 12<br />1:00-4:00pm</td>
-      <td>Final Exam</br />Location TBD</td>
+      <td>Final Exam</br />Location: DH 2302</td>
       <td />
     </tr>
   </tbody>
