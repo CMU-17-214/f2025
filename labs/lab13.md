@@ -26,7 +26,7 @@ For each design pattern, you are expected to provide information in five section
 
 ### Download the cheatsheat
 
-Create a copy of the template at <https://docs.google.com/document/d/1zJSYX04pmMAP3MSmFljY9FSApkbeCS1v6Wyzt0ZbWfA/edit?usp=sharing>
+Create a copy of the template at <https://docs.google.com/document/d/1zJSYX04pmMAP3MSmFljY9FSApkbeCS1v6Wyzt0ZbWfA/edit?usp=sharing>. (You'll need to log in using your CMU account.)
 
 ### Tips
 

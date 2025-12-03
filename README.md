@@ -333,7 +333,7 @@ The schedule below reflects our current plans, but will be updated throughout th
     </tr>
     <tr>
       <td>Fri, Dec 5</td>
-      <td><span class="rec">Lab 13</span>  Design Pattern Review</td>
+      <td><span class="rec">Lab 13</span> <a href="https://github.com/CMU-17-214/f2025/blob/main/labs/lab13.md" target="_blank">Design Pattern Review</a></td>
       <td />
     </tr>
   </tbody>
