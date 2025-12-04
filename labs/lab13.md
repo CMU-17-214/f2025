@@ -1,6 +1,6 @@
 # Lab 13: Design Pattern Review
 
-In this recitation, you will revisit three crucial design patterns: **Proxy**, **Composite**, and **Decorator**. For each pattern, your task is to articulate key aspects, discuss why they are beneficial or problematic, and demonstrate their use in UML diagram in the context of *Santorini's God Cards*.
+In this recitation, you will revisit three crucial design patterns: **Proxy**, **Composite**, and **Decorator**. For each pattern, your task is to articulate key aspects, discuss why they are beneficial or problematic, and demonstrate their use in UML diagram.
 
 ## Deliverables
 
